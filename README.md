@@ -1,4 +1,6 @@
-![Screenshot of the theme](preview.jpg "Preview")
+Forked from MarianArlt/sddm-chili
+
+![Screenshot of the theme](preview.png "Preview")
 
 # Chili login theme for SDDM
 
@@ -54,7 +56,6 @@ Chili is highly customizable through its included `theme.conf` file. You can alt
 
   * Translate the labels of the power buttons:
   `translationReboot=`
-  `translationSuspend=`
   `translationPowerOff=`
 
 You might see some grey pixels around your avatar image which is caused by the anti-aliasing of the opacity mask. You may change the fill color of the mask which resides in `assets/mask.svg` to a color that better matches with your avatar colors. Do **not** change the *opacity* of the mask! Take note that this might affect other avatar images with different colors present on your system.
