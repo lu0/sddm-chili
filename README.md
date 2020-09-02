@@ -34,8 +34,8 @@ Chili is highly customizable through its included `theme.conf` file. You can alt
   `background=assets/wallpaper.jpg`
 
   * Adjust the screen dimensions if Chili looks weird, according to your max display resolution:
-  `ScreenWidth=1366`
-  `ScreenHeight=738`
+  `ScreenWidth=1920`
+  `ScreenHeight=1080`
 
   * Disable blur or play around with its intensity:
   `blur=true`
